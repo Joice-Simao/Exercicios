@@ -5,7 +5,7 @@ package logicaProgramacao;
 
 import java.util.Scanner;
 
-public class Facil01 {
+public class Exercicio01 {
 
 	public static void main(String[] args) {
 
@@ -17,10 +17,10 @@ public class Facil01 {
 		int num2 = scanner.nextInt();
 
 		if (num1 < num2) {
-			System.out.print(num2);
+			System.out.print("O maior valor digitado foi " +num2);
 
 		} else if (num1 > num2) {
-			System.out.print(num1);
+			System.out.print("O maior valor digitado foi " +num1);
 
 		} else
 			System.out.print("Valores iguais!");

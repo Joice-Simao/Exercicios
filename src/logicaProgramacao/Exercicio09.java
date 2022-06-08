@@ -4,7 +4,7 @@ package logicaProgramacao;
 
 import java.util.Scanner;
 
-public class Intermediario09 {
+public class Exercicio09 {
 
 	public static void main(String[] args) {
 

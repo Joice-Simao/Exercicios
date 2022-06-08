@@ -4,7 +4,7 @@ package logicaProgramacao;
 
 import java.util.Scanner;
 
-public class Facil04 {
+public class Exercicio04 {
 
 	public static void main(String[] args) {
 

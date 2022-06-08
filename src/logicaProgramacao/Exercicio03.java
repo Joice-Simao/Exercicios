@@ -6,7 +6,7 @@ package logicaProgramacao;
 
 import java.util.Scanner;
 
-public class Facil03 {
+public class Exercicio03 {
 
 	public static void main(String[] args) {
 
