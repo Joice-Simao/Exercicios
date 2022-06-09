@@ -1,7 +1,7 @@
 // Fácil 1- Faça um programa que peça dois números e verifique (usando if e
 // else) e imprima o maior deles//
 
-package logicaProgramacao;
+package ifElse;
 
 import java.util.Scanner;
 

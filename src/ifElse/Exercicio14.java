@@ -13,7 +13,7 @@ Entre 4.0 e 6.0 . . . . . . . . . .D
 
 Entre 4.0 e 0 . . . . . . . . . . .E */
 
-package logicaProgramacao;
+package ifElse;
 
 import java.util.Scanner;
 
