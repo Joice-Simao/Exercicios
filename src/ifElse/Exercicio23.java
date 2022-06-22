@@ -1,10 +1,9 @@
-/* Fácil 22 – Faça um programa que peça dois números ao usuário e mostre qual o maior e qual o menor */
-
+/* Fácil 23 – Faça um programa que receba três inteiros e diga qual deles é o maior e qual o menor. Consegue criar mais de uma solução?  */
 package ifElse;
 
 import java.util.Scanner;
 
-public class Exercicio22 {
+public class Exercicio23 {
 
 	public static void main(String[] args) {
 
@@ -23,6 +22,8 @@ public class Exercicio22 {
 
 		} else if (numero1 < numero2) {
 			System.out.print("Maior número digitado : " + numero2);
-		}
+
+		} else
+			System.out.print("Números iguais.");
 	}
 }
