@@ -1,4 +1,4 @@
-// Fácil 1- Faça um programa que peça dois números e verifique (usando if e
+// Fï¿½cil 1- Faï¿½a um programa que peï¿½a dois nï¿½meros e verifique (usando if e
 // else) e imprima o maior deles//
 
 package ifElse;
@@ -10,10 +10,10 @@ public class Exercicio01 {
 	public static void main(String[] args) {
 
 		Scanner scanner = new Scanner(System.in);
-		System.out.print("Digite primeiro número: ");
+		System.out.print("Digite primeiro nÃºmero: ");
 		int num1 = scanner.nextInt();
 
-		System.out.print("Digite segundo número: ");
+		System.out.print("Digite segundo nÃºmero: ");
 		int num2 = scanner.nextInt();
 
 		if (num1 < num2) {

@@ -2,7 +2,7 @@
 	a quantidade de pessoas com idade maior ou igual a 18 anos. 
  */
 
-package lacosRepeticao;
+package estruturaRepeticao;
 
 import java.util.Scanner;
 

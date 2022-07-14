@@ -1,6 +1,7 @@
-/*Fácil  1 – Faça um programa que receba um número e usando laços de repetição calcule e mostre a tabuada desse número.*/
+/*FÃ¡cil  1 - FaÃ§a um programa que receba um nÃºmero e usando laÃ§os de repetiÃ§Ã£o calcule e mostre
+	a tabuada desse nÃºmero.*/
 
-package lacosRepeticao;
+package estruturaRepeticao;
 
 import java.util.Scanner;
 
@@ -13,7 +14,7 @@ public class Exercicio01 {
 		int resultado;
 		Scanner scanner = new Scanner(System.in);
 
-		System.out.println("Digite um número : ");
+		System.out.println("Digite um nÃºmero : ");
 		tabuada = scanner.nextInt();
 
 		while (multiplicador <= 10) {

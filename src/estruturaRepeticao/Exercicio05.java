@@ -1,7 +1,7 @@
 /* Intermediário 5 –    Faça um programa que leia três valores (A, B, C) e mostre-os na ordem lida. 
  *  Em seguida, mostre-os em ordem crescente e decrescente.*/
 
-package lacosRepeticao;
+package estruturaRepeticao;
 
 import java.util.Scanner;
 

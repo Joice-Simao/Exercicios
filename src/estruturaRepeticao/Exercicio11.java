@@ -1,6 +1,7 @@
-/*Fácil 11- Escreva um aplicativo que recebe inteiro e mostra os números pares e ímpares (separados), de 1 até esse inteiro.*/
+/*FÃ¡cil 11- Escreva um aplicativo que recebe inteiro e mostra os nÃºmeros pares e Ã­mpares (separados),
+ 	de 1 atÃ© esse inteiro.*/
 
-package lacosRepeticao;
+package estruturaRepeticao;
 
 import java.util.Scanner;
 
@@ -15,7 +16,7 @@ public class Exercicio11 {
 		int impar = 0 ;
 		Scanner scanner = new Scanner(System.in);
 
-		System.out.print("Informe um número : ");
+		System.out.print("Informe um nÃºmero : ");
 		numeroDigitado = scanner.nextInt();
 
 		for (contador = 1; contador <= numeroDigitado; contador++) {

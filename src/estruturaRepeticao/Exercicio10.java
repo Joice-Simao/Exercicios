@@ -9,7 +9,7 @@ De 46 a 60 anos
 Acima de 61 anos
 */
 
-package lacosRepeticao;
+package estruturaRepeticao;
 
 import java.util.Scanner;
 
