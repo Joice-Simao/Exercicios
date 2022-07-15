@@ -3,7 +3,7 @@
 //A mensagem “Aprovado com Distinção”, se a média for igual a dez;
 //A mensagem “Reprovado” se a média for menor de do que sete;
 
-package ifElse;
+package condicional;
 
 import java.util.Scanner;
 

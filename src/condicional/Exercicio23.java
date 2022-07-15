@@ -1,5 +1,5 @@
 /* Fácil 23 – Faça um programa que receba três inteiros e diga qual deles é o maior e qual o menor. Consegue criar mais de uma solução?  */
-package ifElse;
+package condicional;
 
 import java.util.Scanner;
 

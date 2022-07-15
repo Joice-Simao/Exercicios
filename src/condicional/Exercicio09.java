@@ -1,6 +1,6 @@
 //Intermediário 9- Faça um programa que leia três números e mostre-os em ordem decrescente.  //
 
-package ifElse;
+package condicional;
 
 import java.util.Scanner;
 

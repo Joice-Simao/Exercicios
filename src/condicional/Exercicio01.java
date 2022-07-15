@@ -1,7 +1,7 @@
-// F�cil 1- Fa�a um programa que pe�a dois n�meros e verifique (usando if e
+// Fácil 1- Faça um programa que peça dois números e verifique (usando if e
 // else) e imprima o maior deles//
 
-package ifElse;
+package condicional;
 
 import java.util.Scanner;
 

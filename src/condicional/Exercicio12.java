@@ -22,7 +22,7 @@
 //
 //Salário Líquido                   : R$     935,00
 
-package ifElse;
+package condicional;
 
 import java.util.Scanner;
 

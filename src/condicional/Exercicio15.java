@@ -6,7 +6,7 @@ Triângulo Equilátero: três lados iguais;
 Triângulo Isósceles: quaisquer dois lados iguais;
 Triângulo Escaleno: três lados diferentes; */
 
-package ifElse;
+package condicional;
 
 import java.util.Scanner;
 

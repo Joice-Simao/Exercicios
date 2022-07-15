@@ -2,7 +2,7 @@
 // digitada é 'F' ou 'M'. Conforme a letra escrever: F é Feminino, M- Masculino,
 // Sexo inválido. //
 
-package ifElse;
+package condicional;
 
 import java.util.Scanner;
 

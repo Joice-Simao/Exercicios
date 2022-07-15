@@ -1,7 +1,7 @@
 /*Fácil 27 – Escreva um programa que pergunte o dia, mês e ano do aniversário de uma pessoa e diga se a data é válida ou não.
  *  Caso não seja, diga o motivo. Suponha que todos os meses tem 31 dias e que estejamos no ano de 2013.*/
 
-package ifElse;
+package condicional;
 
 import java.util.Scanner;
 

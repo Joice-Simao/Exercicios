@@ -1,6 +1,6 @@
 // Intermediário 6- Faça um programa que leia três números, verifique (usando if e else), e mostre o maior deles.  //
 
-package ifElse;
+package condicional;
 
 import java.util.Scanner;
 

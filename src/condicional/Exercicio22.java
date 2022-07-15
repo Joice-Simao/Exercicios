@@ -1,6 +1,6 @@
 /* Fácil 22 – Faça um programa que peça dois números ao usuário e mostre qual o maior e qual o menor */
 
-package ifElse;
+package condicional;
 
 import java.util.Scanner;
 

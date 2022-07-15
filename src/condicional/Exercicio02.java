@@ -1,7 +1,7 @@
 // Fácil 2- Faça um programa que peça um valor e mostre na tela se o valor é
 // positivo ou negativo//
 
-package ifElse;
+package condicional;
 
 import java.util.Scanner;
 

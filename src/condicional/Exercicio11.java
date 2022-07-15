@@ -13,7 +13,7 @@
 	c. O valor do aumento;
 	d. O novo salário, após o aumento.  */
 
-package ifElse;
+package condicional;
 
 import java.util.Scanner;
 
