@@ -1,6 +1,6 @@
 //Fácil 4- Faça um programa que verifique (usando if e else) se uma letra digitada é vogal ou consoante.  //
 
-package ifElse;
+package condicional;
 
 import java.util.Scanner;
 

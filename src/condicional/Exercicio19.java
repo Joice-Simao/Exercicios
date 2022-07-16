@@ -4,7 +4,7 @@
 Par ou ímpar;
 Positivo ou negativo; */
 
-package ifElse;
+package condicional;
 
 import java.util.Scanner;
 

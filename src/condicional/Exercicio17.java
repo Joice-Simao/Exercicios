@@ -1,6 +1,6 @@
 //Intermediário17. Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano e ou não bissexto.
 
-package ifElse;
+package condicional;
 
 import java.util.Scanner;
 
