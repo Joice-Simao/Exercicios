@@ -5,13 +5,13 @@
 
 #
 
-<b>Linguagem utilizada :</b> <img width =50 heigth = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<b>Linguagem utilizada:</b> <img align="center" width =45 heigth =45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
 #
 
 <b>Lista de Exercícios</b>
-- [x] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/condicional"> Estruturas Condicionais</a>
-- [ ] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/estruturaRepeticao"> Estruturas de Repetição</a> :construction:
+- [x] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/condicional">Estruturas Condicionais</a>
+- [ ] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/estruturaRepeticao">Estruturas de Repetição</a> :construction:
 - [ ] Funções
 - [ ] Matrizes
 - [ ] Vetores
