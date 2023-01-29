@@ -10,15 +10,17 @@ public class Exercicio23 {
     public static void main(String[]args){
         Scanner scanner = new Scanner(System.in);
 
-        int idade, media, totalIdades = 0, contador = 1;
+        int idade, media, totalIdades = 0, contador = 0,total;
 
         do {
-            System.out.println(contador + " - Informe sua idade ");
+            System.out.println("Informe sua idade ");
             idade = scanner.nextInt();
+            totalIdades = idade + totalIdades;
+            contador++;
 
         }while (idade > 0);
-
-        media = totalIdades / contador;
+        total = contador - 1;
+        media = totalIdades / total;
 
         System.out.println("Média das idades digitadas : " +media);
     }
