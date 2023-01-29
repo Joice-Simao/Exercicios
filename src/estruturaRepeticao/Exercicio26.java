@@ -55,7 +55,7 @@ public class Exercicio26 {
         mediaFaixa4 = totalPesoFaixa4 / contadorFaixa4;
 
         System.out.printf("Média de peso faixa etária \n De 1 a 10 anos %.0f\n De 11 a 20 anos %.0f" +
-                "\n De 21 a 30 anos %.0f\n Maiores de 31 anos %.0f",mediaFaixa1,mediaFaixa2, mediaFaixa3,mediaFaixa4);
+                "\n De 21 a 30 anos %.0f\n Maiores de 31 anos %.0f",mediaFaixa1, mediaFaixa2, mediaFaixa3, mediaFaixa4);
 
     }
 }
