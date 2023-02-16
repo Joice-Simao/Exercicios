@@ -5,5 +5,33 @@
  */
 package estruturaRepeticao;
 
+import java.util.Scanner;
+
 public class Exercicio40 {
+    public static void main(String[] args){
+        Scanner scanner = new Scanner(System.in);
+
+        int numero, positivoTotal = 0, negativoTotal = 0, somaParciais;
+
+        do {
+            System.out.println("Informe o número: ");
+            numero = scanner.nextInt();
+
+            if (numero > 0){
+                positivoTotal = numero + positivoTotal;
+            }
+
+            if (numero < 0){
+                negativoTotal = numero + negativoTotal;
+            }
+
+            somaParciais = positivoTotal + negativoTotal;
+
+        }while (numero !=0);
+
+        System.out.println("Soma dos números positivos: " +positivoTotal);
+        System.out.println("Soma dos números negativos: " +negativoTotal);
+        System.out.println("Soma das parciais: " +somaParciais);
+    }
+
 }
