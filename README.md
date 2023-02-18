@@ -11,7 +11,7 @@
 
 <b>Lista de Exercícios</b>
 - [x] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/condicional">Estruturas Condicionais</a>
-- [ ] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/estruturaRepeticao">Estruturas de Repetição</a> :construction:
+- [ ] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/estruturaRepeticao">Estruturas de Repetição</a>
 - [ ] Funções
 - [ ] Matrizes
 - [ ] Vetores
