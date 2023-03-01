@@ -9,7 +9,7 @@
 
 - [x] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/condicional">Estruturas Condicionais</a>
 - [X] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/estruturaRepeticao">Estruturas de Repetição</a>
-- [ ] Vetores
+- [ ] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/vetores">Vetores</a>
 - [ ] Matrizes
 - [ ] Funções
 
