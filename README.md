@@ -7,12 +7,12 @@
 
 <h4>📋 Lista de Exercícios</h4>
 
-- [x] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/condicional">Estruturas Condicionais</a>
-- [X] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/estruturaRepeticao">Estruturas de Repetição</a>
-- [ ] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/vetores">Vetores</a>
+- [x] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/condicional" target = "_self">Estruturas Condicionais</a>
+- [x] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/estruturaRepeticao" target = "_blank">Estruturas de Repetição</a>
+- [ ] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/vetores" target = "_blanck">Vetores</a>
 - [ ] Matrizes
 - [ ] Funções
 
 <h4>🤝🏽 Créditos</h4>
-<p>Conteúdo disponível em <a href="https://www.computersciencemaster.com.br/exercicios-de-logica-de-programacao/" target= "_blank">Computer Science Master</a></p>
+<p>Conteúdo disponível em <a href="https://www.computersciencemaster.com.br/exercicios-de-logica-de-programacao/" target = "_blank">Computer Science Master</a></p>
 
