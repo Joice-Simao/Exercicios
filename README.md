@@ -1,11 +1,11 @@
 <h1 align="center">Lógica de Programação</h1>
 
-<p>Repositório com exercícios para prática de lógica de programação.</p>
+<p>Repositório com exercícios para prática de lógica de programação. </p>
 
-<h4>🐱‍💻 Linguagem utilizada</h4>
-<p>Java</p> 
+<h3>🐱‍💻 Linguagem utilizada</h3>
+ • Java
 
-<h4>📋 Lista de Exercícios</h4>
+<h3>📋 Listas de Exercícios</h3>
 
 - [x] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/condicional">Estruturas Condicionais</a>
 - [x] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/estruturaRepeticao">Estruturas de Repetição</a>
@@ -13,6 +13,7 @@
 - [ ] Matrizes
 - [ ] Funções
 
-<h4>🤝🏽 Créditos</h4>
-<p>Conteúdo disponível em <a href="https://www.computersciencemaster.com.br/exercicios-de-logica-de-programacao/">Computer Science Master</a></p>
-
+<h3>🤝🏽 Créditos</h3>
+<p>
+  Conteúdo disponível em <a href="https://www.computersciencemaster.com.br/exercicios-de-logica-de-programacao/">Computer Science Master</a>
+</p>
