@@ -1,22 +1,19 @@
-<h1 align="center"> Exercícios de Lógica de Programação </h1>
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
+<h1 align="center">Lógica de Programação</h1>
 
-#
+<p>Repositório com exercícios para prática de lógica de programação. </p>
 
-<b>Linguagem utilizada:</b> <img align="center" width =45 heigth =45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<h3>🐱‍💻 Linguagem utilizada</h3>
+ • Java
 
-#
+<h3>📋 Listas de Exercícios</h3>
 
-<b>Lista de Exercícios</b>
 - [x] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/condicional">Estruturas Condicionais</a>
-- [ ] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/estruturaRepeticao">Estruturas de Repetição</a>
-- [ ] Funções
+- [x] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/estruturaRepeticao">Estruturas de Repetição</a>
+- [ ] <a href="https://github.com/Joice-Simao/Exercicios/tree/main/src/vetores">Vetores</a>
 - [ ] Matrizes
-- [ ] Vetores
+- [ ] Funções
 
-#
-
-Dísponivel em : 
-<a href="https://www.computersciencemaster.com.br/exercicios-de-logica-de-programacao/"> computersciencemaster </a>
+<h3>🤝🏽 Créditos</h3>
+<p>
+  Conteúdo disponível em <a href="https://www.computersciencemaster.com.br/exercicios-de-logica-de-programacao/">Computer Science Master</a>
+</p>
