@@ -12,11 +12,11 @@ public class Exercicio01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int n = 4;
+        int n = 12;
         int v[] = new int[n];
         int i, x, y, resultadoSoma;
 
-        for (i = 0; i < 4; i++) {
+        for (i = 0; i < n; i++) {
             System.out.printf("Informe%2d valor de %d: ", (i + 1), n);
             v[i] = scanner.nextInt();
         }
