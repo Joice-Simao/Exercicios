@@ -12,19 +12,17 @@ public class Exercicio02 {
         int n = 3, i, numero;
         int v[] = new int[n];
 
-        for (i = 0; i < n; i++) {
-            System.out.printf("Informe %2d valor de %d: ", (i + 1), n);
-            numero = scanner.nextInt();
+        for(i = 0; i < n; i++){
+            do{
+                System.out.print("\nDigite um número: ");
+                numero = scanner.nextInt();
 
-            if ((numero % 2) != 0) {
-                v[i] = numero;
-            }else
-                continue;
-
+            }while((numero%2)!= 1);
+            v[i]=numero;
         }
 
-        for (i = 0; i < n; i++){
-            System.out.print(v[i] +" ");
+        for(i = 0; i < n; i++){
+            System.out.print(v[i] + " ");
         }
     }
 }
