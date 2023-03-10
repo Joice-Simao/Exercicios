@@ -21,13 +21,13 @@ public class Exercicio04 {
         System.out.print("Digite valor de X: ");
         x = scanner.nextInt();
 
-
         for (i = 0; i < n; i++){
+
             if(v[i] == x) {
-                System.out.println("O índice do número digitado é " + i);
-            }
+                System.out.println("A posição do número digitado é " + (i+1));
+            }else
+                System.out.println("Valor não encontrado");
+                break;
         }
-
-
     }
 }
