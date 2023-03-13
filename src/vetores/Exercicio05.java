@@ -1,0 +1,7 @@
+/*
+    Fácil 5. Leia um vetor de 40 posições. Contar e escrever quantos valores pares ele possui.
+ */
+package vetores;
+
+public class Exercicio05 {
+}

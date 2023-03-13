@@ -10,7 +10,7 @@ public class Exercicio04 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
 
-        int n = 4, i, x, posicao = 0;
+        int n = 20, i, x, posicao = 0;
         int v[] = new int[n];
 
         // entrada de dados do vetor
