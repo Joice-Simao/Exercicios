@@ -10,18 +10,17 @@ public class Exercicio07 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
 
-        int n = 4, i, j = 0, k = 0;
+        int n = 20, i;
         int vetor1[] = new int [n];
         int vetor2[] = new int [n];
         int vetor3[] = new int [n];
 
-        // Preenchendo o primeiro vetor
         System.out.println("Vetor 01");
         for(i = 0; i < n; i++){
             System.out.print("Digite um número para posição " +(i)+ ": ");
             vetor1[i] = scanner.nextInt();
         }
-        // Preenchendo o segundo vetor
+
         System.out.println("Vetor 02");
         for(i = 0; i < n; i++){
             System.out.print("Digite um número para posição " +(i)+ ": ");
@@ -36,6 +35,7 @@ public class Exercicio07 {
                 vetor3[i] = vetor2[i];
             }
         }
+        
         System.out.print("Vetor 01 : ");
         for (i = 0; i < n; i++){
             System.out.print(+vetor1[i] +" | ");
