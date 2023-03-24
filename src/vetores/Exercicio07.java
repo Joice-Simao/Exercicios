@@ -35,7 +35,7 @@ public class Exercicio07 {
                 vetor3[i] = vetor2[i];
             }
         }
-        
+
         System.out.print("Vetor 01 : ");
         for (i = 0; i < n; i++){
             System.out.print(+vetor1[i] +" | ");
